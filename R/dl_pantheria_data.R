@@ -26,3 +26,10 @@ dl_pantheria_data=function(){
 }
 
 dl_pantheria_data()
+
+
+
+
+##### Now test with bioforest data########
+
+
