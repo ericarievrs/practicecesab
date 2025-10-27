@@ -1,0 +1,14 @@
+---
+title: ptpt
+---
+
+# Introduction
+
+```{r}
+#| echo: true
+#| eval: true
+
+plot(0)
+```
+
+lorem ipsum....
